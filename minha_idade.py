@@ -1,6 +1,6 @@
 # minha_idade
 
-print("__________🎭The Unbearables🎭__________")
+print("__________👻Ghosts¹👻__________")
 
 nome = input("Digite seu nome \n")
 idade = int(input("Digite seu ano de nascimento\n"))
