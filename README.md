@@ -1,0 +1,3 @@
+# minha_idade
+
+É um script simples desenvolvido em python3 que trabalha como uma calculadora mas é apenas para saber a sua idade de acordo com o ano em que se encontra...
